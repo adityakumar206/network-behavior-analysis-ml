@@ -103,10 +103,9 @@ jupyter notebook Network_Behavior_Analysis.ipynb
 
 ## 👨‍💻 Author
 
-**Adity [Your Name Here]**  
-_Data Analyst Intern – Cybersecurity_  
-LinkedIn: [YourProfile]  
-GitHub: [YourGitHub]
+Aditya Kumar 
+LinkedIn: https://www.linkedin.com/in/aditya-kumar9512 
+
 
 ---
 
