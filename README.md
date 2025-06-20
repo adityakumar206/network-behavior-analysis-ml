@@ -92,14 +92,6 @@ jupyter notebook Network_Behavior_Analysis.ipynb
 
 ---
 
-## ✨ Highlights
-
-- ✅ Real-world dataset
-- ✅ 15-class classification
-- ✅ PCA + ML modeling
-- ✅ GitHub-optimized format
-
----
 
 ## 👨‍💻 Author
 
@@ -107,8 +99,4 @@ Aditya Kumar
 LinkedIn: https://www.linkedin.com/in/aditya-kumar9512 
 
 
----
 
-## 🛡️ License
-
-This project is licensed under the MIT License.
